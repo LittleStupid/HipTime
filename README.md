@@ -10,4 +10,4 @@ run this command to start server:
 
     rails s
 
-![img]()
+![img](https://github.com/LittleStupid/HipTime/blob/master/demo/todo_demo.gif)
